@@ -1,0 +1,3 @@
+[submodule "BASES-TS"]
+	path = BASES-TS
+	url = https://github.com/AruHonshou/BASES-TS.git
