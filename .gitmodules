@@ -1,3 +1,9 @@
 [submodule "BASES-TS"]
 	path = BASES-TS
 	url = https://github.com/AruHonshou/BASES-TS.git
+[submodule "Express-API"]
+	path = Express-API
+	url = https://github.com/AruHonshou/Express-API
+[submodule "TS-NODE"]
+	path = TS-NODE
+	url = https://github.com/AruHonshou/TS-NODE
